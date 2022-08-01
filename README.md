@@ -1,5 +1,5 @@
 ### Pick-a Delivery App 
-###### With React.JS   :tw-1f499:
+###### With React.JS  ♥
 
 --------------------------
 
